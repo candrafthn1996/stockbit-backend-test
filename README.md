@@ -1,6 +1,6 @@
 ## STOCKBIT-BACKEND-TEST
 
-### **1. PHP BasiC**
+### **1. PHP Basic**
 
 1. run file `basic-php/1a` (edit param inside file to change value)
 2. run file `basic-php/1b` 
